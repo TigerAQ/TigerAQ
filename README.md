@@ -8,9 +8,6 @@
 
 🌎 Outside the tech world:  You'll find me snowboarding 🏂, exploring new places 🌍, or hanging out with any four-legged furry friends 🐾 (big fan!).
 
-Let's connect! 📫 ailun.qin@gmail.com
-
-Let's build solutions that matter to how we work and live!
 
 <!---
 TigerAQ/TigerAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
