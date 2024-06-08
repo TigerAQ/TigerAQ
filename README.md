@@ -2,7 +2,7 @@
 
 🚀 12+ years of experience scaling infrastructure and leading global teams to success. I'm passionate about fostering diverse, collaborative environments where everyone can thrive.
 
-🛠️ My toolkit:  Program management, cloud infrastructure, data migration, – all honed while delivering award-winning results (🏆 US Banking & Fintech Women in Technology Leadership Award 2024!).
+🛠️ My toolkit:  Program management, People management, cloud infrastructure, database, – all honed while delivering award-winning results (🏆 US Banking & Fintech Women in Technology Leadership Award 2024!).
 
 🤖 Currently trying to geek out over:  Generative AI and its potential to revolutionize how we work and live.
 
